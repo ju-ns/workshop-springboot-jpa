@@ -187,7 +187,7 @@ Host: localhost:8080
 - Buscar produto por ID
 
 ```http
-GET /products/3 HTTP/1.1
+GET /products/3 
 Host: localhost:8080
 ```
 
@@ -202,7 +202,7 @@ Host: localhost:8080
 - Buscar pedido por ID
 
 ```http
-GET /orders/5 HTTP/1.1
+GET /orders/5 
 Host: localhost:8080
 ```
 ## Tratamento de Erros
