@@ -223,5 +223,8 @@ Quando um recurso não é encontrado, a API retorna uma resposta JSON com detalh
 
 Projeto aberto sob licença MIT — consulte o arquivo LICENSE para detalhes.
 
+## 👤 Autor
+
+Julia Nunes
 
 
